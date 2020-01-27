@@ -62,8 +62,12 @@ const OptionsData = [
 <Dropdown items={MenuData} buttonLabel='John Doe'
           className="dropdown" options={OptionsData}/>
 
+```
 
 ### Closed state
+
+
+```html
 
 <div class="dd__wrapper closed">
     <div class="dd__trigger">
@@ -76,7 +80,11 @@ const OptionsData = [
     </div>
 </div>
 
+```
+
 ### Open state
+
+```html
 
 <div class="dd__wrapper open">
     <div class="dd__trigger">
