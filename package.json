@@ -1,0 +1,31 @@
+{
+  "name": "@markdijkstra/react-dropdown",
+  "version": "1.0.0",
+  "description": "React dropdown component.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarkDijkstra/react-dropdown.git"
+  },
+  "keywords": [
+    "npm",
+    "dropdown",
+    "react",
+    "component"
+  ],
+  "author": "Mark Dijkstra",
+  "license": "(MIT OR Apache-2.0)",
+  "bugs": {
+    "url": "https://github.com/MarkDijkstra/react-dropdown/issues"
+  },
+  "homepage": "https://github.com/MarkDijkstra/react-dropdown#readme",
+  "dependencies" : {
+    "react" : "^16.12.0",
+    "feather-icons-react": "^0.4.0",
+    "prop-types": "^15.7.2",
+    "react-router-dom": "^5.1.2"
+  }
+}
